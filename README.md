@@ -102,77 +102,30 @@ Biblioteca Analytics busca desarrollar un flujo de trabajo que permita:
 
 ```text
 
-\&#x20;                CATÁLOGO
+             CATÁLOGO
+                ▼
+        Carga / Conversión
 
-\&#x20;                   │
-
-\&#x20;                   ▼
-
-\&#x20;         Carga / Conversión
-
-\&#x20;                   │
-
-\&#x20;                   ▼
-
-\&#x20;            Normalización
-
-\&#x20;                   │
-
-\&#x20;                   ▼
-
-\&#x20;         Validación de datos
-
-\&#x20;                   │
-
-\&#x20;                   ▼
-
-\&#x20;              Auditoría
-
-\&#x20;                   │
-
-\&#x20;         ┌─────────┴─────────┐
-
-\&#x20;         ▼                   ▼
-
-\&#x20;  Reglas MARC21       Fuentes externas
-
-\&#x20;         │                   │
-
-\&#x20;         └─────────┬─────────┘
-
-\&#x20;                   ▼
-
-\&#x20;         Evaluación / Comparación
-
-\&#x20;                   │
-
-\&#x20;                   ▼
-
-\&#x20;            Correcciones
-
-\&#x20;                   │
-
-\&#x20;                   ▼
-
-\&#x20;          Historial de cambios
-
-\&#x20;                   │
-
-\&#x20;                   ▼
-
-\&#x20;          Informe de calidad
-
-\&#x20;                   │
-
-\&#x20;                   ▼
-
-\&#x20;       Comparación de auditorías
-
-```
-
-
-
-\---
+                ▼
+          Normalización
+                ▼
+       Validación de datos
+                ▼
+            Auditoría
+                │
+      ▼                   ▼
+  Reglas MARC21       Fuentes externas
+      │                    │
+                 ▼
+      Evaluación / Comparación
+                 ▼
+           Correcciones
+                 ▼
+        Historial de cambios
+                 ▼
+        Informe de calidad
+                 ▼
+     Comparación de auditorías
 
 
 
@@ -370,11 +323,11 @@ La idea es diferenciar entre:
 
 Coincidencia confiable
 
-\&#x20;       ↓
+     ↓
 
 Coincidencia posible
 
-\&#x20;       ↓
+    ↓
 
 Revisión manual
 
@@ -465,20 +418,18 @@ Por ejemplo:
 ```text
 
 Auditoría 1
-
-\&#x20;   ↓
+  ↓
 
 Proceso de limpieza
 
-\&#x20;   ↓
+↓
 
 Auditoría 2
 
-\&#x20;   ↓
+ ↓
 
 Comparación
-
-\&#x20;   ↓
+ ↓
 
 Medición de cambios
 
@@ -819,23 +770,12 @@ Entre las próximas etapas se encuentran:
 
 
 \*\*Juan Gabriel Cristiano\*\*
-
-
-
 \*\*Bibliotecario Profesional\*\* especializado en gestión de información y datos.
-
-
-
 Experiencia profesional en bibliotecas, repositorios digitales, gestión de información y coordinación de equipos.
-
-
-
 Actualmente desarrollando proyectos de \*\*Data Analytics, Python, SQL y calidad de datos aplicados al ámbito bibliotecario\*\*.
 
 
-
 \---
-
 
 
 \##  Estado del proyecto
@@ -843,8 +783,5 @@ Actualmente desarrollando proyectos de \*\*Data Analytics, Python, SQL y calidad
 
 
 \*\*En desarrollo\*\*
-
-
-
 Biblioteca Analytics es un proyecto de portfolio y desarrollo continuo. Las funcionalidades se incorporan progresivamente a medida que los diferentes componentes son desarrollados y probados.
 
