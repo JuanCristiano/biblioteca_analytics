@@ -1,0 +1,590 @@
+[
+  {
+    "001": "000001",
+    "020": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subcampos": {
+          "a": "9789500723459"
+        }
+      }
+    ],
+    "100": [
+      {
+        "ind1": "1",
+        "ind2": " ",
+        "subcampos": {
+          "a": "Borges, Jorge Luis",
+          "d": "1899-1986"
+        }
+      }
+    ],
+    "245": [
+      {
+        "ind1": "1",
+        "ind2": "0",
+        "subcampos": {
+          "a": "El Aleph",
+          "c": "Jorge Luis Borges"
+        }
+      }
+    ],
+    "250": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subcampos": {
+          "a": "1a ed."
+        }
+      }
+    ],
+    "264": [
+      {
+        "ind1": " ",
+        "ind2": "1",
+        "subcampos": {
+          "b": "Emecé",
+          "c": "1949"
+        }
+      }
+    ],
+    "300": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subcampos": {
+          "a": "181 p.",
+          "c": "20 cm"
+        }
+      }
+    ],
+    "650": [
+      {
+        "ind1": " ",
+        "ind2": "0",
+        "subcampos": {
+          "a": "Literatura argentina"
+        }
+      }
+    ]
+  },
+  {
+    "001": "000002",
+    "020": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subcampos": {
+          "a": "9788437604947"
+        }
+      }
+    ],
+    "100": [
+      {
+        "ind1": "1",
+        "ind2": " ",
+        "subcampos": {
+          "a": "García Márquez, Gabriel",
+          "d": "1927-2014"
+        }
+      }
+    ],
+    "245": [
+      {
+        "ind1": "1",
+        "ind2": "0",
+        "subcampos": {
+          "a": "Cien años de soledad",
+          "c": "Gabriel García Márquez"
+        }
+      }
+    ],
+    "250": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subcampos": {
+          "a": "1a ed."
+        }
+      }
+    ],
+    "264": [
+      {
+        "ind1": " ",
+        "ind2": "1",
+        "subcampos": {
+          "b": "Cátedra",
+          "c": "1967"
+        }
+      }
+    ],
+    "300": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subcampos": {
+          "a": "471 p.",
+          "c": "21 cm"
+        }
+      }
+    ],
+    "650": [
+      {
+        "ind1": " ",
+        "ind2": "0",
+        "subcampos": {
+          "a": "Literatura latinoamericana"
+        }
+      }
+    ]
+  },
+  {
+    "001": "000003",
+    "020": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subcampos": {
+          "a": "9788420412146"
+        }
+      }
+    ],
+    "100": [
+      {
+        "ind1": "1",
+        "ind2": " ",
+        "subcampos": {
+          "a": "Cortázar, Julio",
+          "d": "1914-1984"
+        }
+      }
+    ],
+    "245": [
+      {
+        "ind1": "1",
+        "ind2": "0",
+        "subcampos": {
+          "a": "Rayuela",
+          "c": "Julio Cortázar"
+        }
+      }
+    ],
+    "250": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subcampos": {
+          "a": "Ed. especial"
+        }
+      }
+    ],
+    "264": [
+      {
+        "ind1": " ",
+        "ind2": "1",
+        "subcampos": {
+          "b": "Alfaguara",
+          "c": "1963"
+        }
+      }
+    ],
+    "300": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subcampos": {
+          "a": "635 p.",
+          "c": "21 cm"
+        }
+      }
+    ],
+    "650": [
+      {
+        "ind1": " ",
+        "ind2": "0",
+        "subcampos": {
+          "a": "Novela argentina"
+        }
+      }
+    ]
+  },
+  {
+    "001": "000004",
+    "020": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subcampos": {
+          "a": "9789875661233"
+        }
+      }
+    ],
+    "100": [
+      {
+        "ind1": "1",
+        "ind2": " ",
+        "subcampos": {
+          "a": "Sabato, Ernesto",
+          "d": "1911-2011"
+        }
+      }
+    ],
+    "245": [
+      {
+        "ind1": "1",
+        "ind2": "3",
+        "subcampos": {
+          "a": "El túnel",
+          "c": "Ernesto Sabato"
+        }
+      }
+    ],
+    "264": [
+      {
+        "ind1": " ",
+        "ind2": "1",
+        "subcampos": {
+          "b": "Seix Barral",
+          "c": "1948"
+        }
+      }
+    ],
+    "300": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subcampos": {
+          "a": "160 p.",
+          "c": "20 cm"
+        }
+      }
+    ],
+    "650": [
+      {
+        "ind1": " ",
+        "ind2": "0",
+        "subcampos": {
+          "a": "Novela argentina"
+        }
+      }
+    ]
+  },
+  {
+    "001": "000005",
+    "020": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subcampos": {
+          "a": "9788420471839"
+        }
+      }
+    ],
+    "100": [
+      {
+        "ind1": "1",
+        "ind2": " ",
+        "subcampos": {
+          "a": "Allende, Isabel"
+        }
+      }
+    ],
+    "245": [
+      {
+        "ind1": "1",
+        "ind2": "0",
+        "subcampos": {
+          "a": "La casa de los espíritus",
+          "c": "Isabel Allende"
+        }
+      }
+    ],
+    "264": [
+      {
+        "ind1": " ",
+        "ind2": "1",
+        "subcampos": {
+          "b": "Plaza & Janés",
+          "c": "1982"
+        }
+      }
+    ],
+    "300": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subcampos": {
+          "a": "453 p.",
+          "c": "23 cm"
+        }
+      }
+    ],
+    "650": [
+      {
+        "ind1": " ",
+        "ind2": "0",
+        "subcampos": {
+          "a": "Novela chilena"
+        }
+      }
+    ]
+  },
+  {
+    "001": "000006",
+    "020": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subcampos": {
+          "a": "9788433978011"
+        }
+      }
+    ],
+    "100": [
+      {
+        "ind1": "1",
+        "ind2": " ",
+        "subcampos": {
+          "a": "Saramago, José",
+          "d": "1922-2010"
+        }
+      }
+    ],
+    "245": [
+      {
+        "ind1": "1",
+        "ind2": "3",
+        "subcampos": {
+          "a": "Ensayo sobre la ceguera",
+          "c": "José Saramago"
+        }
+      }
+    ],
+    "264": [
+      {
+        "ind1": " ",
+        "ind2": "1",
+        "subcampos": {
+          "b": "Alfaguara",
+          "c": "1995"
+        }
+      }
+    ],
+    "300": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subcampos": {
+          "a": "329 p.",
+          "c": "23 cm"
+        }
+      }
+    ],
+    "650": [
+      {
+        "ind1": " ",
+        "ind2": "0",
+        "subcampos": {
+          "a": "Novela portuguesa"
+        }
+      }
+    ]
+  },
+  {
+    "001": "000007",
+    "020": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subcampos": {
+          "a": "9789500723473"
+        }
+      }
+    ],
+    "100": [
+      {
+        "ind1": "1",
+        "ind2": " ",
+        "subcampos": {
+          "a": "Borges, Jorge Luis"
+        }
+      }
+    ],
+    "245": [
+      {
+        "ind1": "1",
+        "ind2": "0",
+        "subcampos": {
+          "a": "Ficciones",
+          "c": "Jorge Luis Borges"
+        }
+      }
+    ],
+    "264": [
+      {
+        "ind1": " ",
+        "ind2": "1",
+        "subcampos": {
+          "b": "Emecé",
+          "c": "1944"
+        }
+      }
+    ],
+    "300": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subcampos": {
+          "a": "210 p.",
+          "c": "20 cm"
+        }
+      }
+    ],
+    "650": [
+      {
+        "ind1": " ",
+        "ind2": "0",
+        "subcampos": {
+          "a": "Literatura argentina"
+        }
+      }
+    ]
+  },
+  {
+    "001": "000008",
+    "100": [
+      {
+        "ind1": "1",
+        "ind2": " ",
+        "subcampos": {
+          "a": "Quiroga, Horacio",
+          "d": "1878-1937"
+        }
+      }
+    ],
+    "245": [
+      {
+        "ind1": "1",
+        "ind2": "0",
+        "subcampos": {
+          "a": "",
+          "c": "Horacio Quiroga"
+        }
+      }
+    ],
+    "264": [
+      {
+        "ind1": " ",
+        "ind2": "1",
+        "subcampos": {
+          "b": "Losada",
+          "c": "1917"
+        }
+      }
+    ],
+    "300": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subcampos": {
+          "a": "250 p.",
+          "c": "20 cm"
+        }
+      }
+    ]
+  },
+  {
+    "001": "000009",
+    "020": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subcampos": {
+          "a": "9789500723459"
+        }
+      }
+    ],
+    "245": [
+      {
+        "ind1": "1",
+        "ind2": "0",
+        "subcampos": {
+          "a": "El Aleph",
+          "c": "Jorge Luis Borges"
+        }
+      }
+    ],
+    "264": [
+      {
+        "ind1": " ",
+        "ind2": "1",
+        "subcampos": {
+          "b": "Emecé",
+          "c": "1949"
+        }
+      }
+    ],
+    "300": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subcampos": {
+          "a": "181 p.",
+          "c": "20 cm"
+        }
+      }
+    ]
+  },
+  {
+    "001": "000010",
+    "020": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subcampos": {
+          "a": "9789500723466"
+        }
+      }
+    ],
+    "100": [
+      {
+        "ind1": "1",
+        "ind2": " ",
+        "subcampos": {
+          "a": "Cortazar, Julio"
+        }
+      }
+    ],
+    "245": [
+      {
+        "ind1": "1",
+        "ind2": "0",
+        "subcampos": {
+          "a": "Rayuela",
+          "c": "Julio Cortázar"
+        }
+      }
+    ],
+    "264": [
+      {
+        "ind1": " ",
+        "ind2": "1",
+        "subcampos": {
+          "b": "Alfaguara",
+          "c": "1963"
+        }
+      }
+    ],
+    "300": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subcampos": {
+          "a": "635 p.",
+          "c": "21 cm"
+        }
+      }
+    ]
+  }
+]
