@@ -81,6 +81,12 @@ def test_un_error_de_escritura_separa_coincidencia_y_posible():
     assert 0.85 <= posible["similitud"] < 1.0
 
 
+def test_limitacion_un_rol_entre_parentesis_queda_justo_en_el_umbral():
+    resultado = comparar_multiples_autores("Jorge Luis Borges", "Jorge Luis Borges (autor)")
+
+    assert resultado["resultado"] == "POSIBLE COINCIDENCIA"
+    assert resultado["posibles_coincidencias"][0]["similitud"] == 0.85
+
 # ---------- REVISAR ----------
 
 @pytest.mark.parametrize("catalogo, fuente, motivo, faltantes, adicionales", [
