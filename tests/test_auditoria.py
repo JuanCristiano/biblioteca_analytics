@@ -2,8 +2,8 @@ import copy
 
 import pytest
 
-import auditoria as modulo_auditoria
-from auditoria import auditar_registros, normalizar_isbn
+import modulos.fuentes.auditoria as modulo_auditoria
+from modulos.fuentes.auditoria import auditar_registros, normalizar_isbn
 
 ISBN = "9780140328721"
 

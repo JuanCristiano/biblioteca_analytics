@@ -1,8 +1,8 @@
 import pytest
 import requests
 
-import fuentes_bibliograficas as fb
-from fuentes_bibliograficas import consultar_google_books, consultar_openlibrary
+import modulos.fuentes.fuentes_bibliograficas as fb
+from modulos.fuentes.fuentes_bibliograficas import consultar_google_books, consultar_openlibrary
 
 ISBN = "9780140328721"
 
