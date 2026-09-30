@@ -1,6 +1,6 @@
 import re
 
-from normalizacion import normalizar_texto, normalizar_autor
+from modulos.normalizacion.normalizacion import normalizar_texto, normalizar_autor
 
 
 def textos_coinciden(valor_catalogo, valores_externos):

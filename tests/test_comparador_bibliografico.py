@@ -2,7 +2,7 @@ import copy
 
 import pytest
 
-from comparador_bibliografico import (
+from modulos.comparacion.comparador_bibliografico import (
     autores_coinciden,
     comparar_registro,
     textos_coinciden,

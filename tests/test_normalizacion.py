@@ -1,6 +1,6 @@
 import pytest
 
-from normalizacion import normalizar_autor, normalizar_texto
+from modulos.normalizacion.normalizacion import normalizar_autor, normalizar_texto
 
 
 def test_normalizar_texto_quita_tildes_mayusculas_y_puntuacion():

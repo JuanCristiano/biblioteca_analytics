@@ -1,6 +1,6 @@
 import re
 
-from comparador_bibliografico import comparar_registro
+from modulos.comparacion.comparador_bibliografico import comparar_registro
 from fuentes_bibliograficas import consultar_openlibrary
 
 
