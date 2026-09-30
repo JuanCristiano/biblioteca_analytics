@@ -1,6 +1,6 @@
 import pytest
 
-from similitud_texto import (
+from modulos.comparacion.similitud_texto import (
     calcular_similitud,
     distancia_levenshtein,
     normalizar_texto,

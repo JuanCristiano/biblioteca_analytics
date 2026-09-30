@@ -1,6 +1,6 @@
 import pytest
 
-from comparar_titulos import comparar_titulo, normalizar_titulo
+from modulos.comparacion.comparar_titulos import comparar_titulo, normalizar_titulo
 
 
 # ---------- normalizar_titulo ----------
