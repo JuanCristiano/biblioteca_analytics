@@ -1,6 +1,6 @@
 import pytest
 
-from comparar_autores import (
+from modulos.comparacion.comparar_autores import (
     comparar_autor,
     normalizar_autor,
     reordenar_autor,

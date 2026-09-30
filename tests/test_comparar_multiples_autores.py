@@ -1,6 +1,6 @@
 import pytest
 
-from comparar_autores import comparar_multiples_autores
+from modulos.comparacion.comparar_autores import comparar_multiples_autores
 
 BORGES_BIOY = "Jorge Luis Borges; Adolfo Bioy Casares"
 
