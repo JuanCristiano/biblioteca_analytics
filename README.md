@@ -160,7 +160,6 @@ Cada ejecución guarda un resumen y una copia de los informes. La comparación e
 ```text
 biblioteca_analytics/
 ├── auditar_catalogo.py        # punto de entrada: auditoría completa
-├── identificadores.py
 ├── requirements.txt
 ├── requirements-dev.txt
 ├── LICENSE
