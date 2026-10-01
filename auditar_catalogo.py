@@ -130,6 +130,12 @@ def cargar_catalogo(ruta):
 
 def main():
 
+    # Crear la carpeta de resultados si no existe (por ejemplo, en un clon nuevo)
+    os.makedirs(
+        os.path.dirname(RUTA_INFORME),
+        exist_ok=True
+    )
+
     print(
         "========================================"
     )

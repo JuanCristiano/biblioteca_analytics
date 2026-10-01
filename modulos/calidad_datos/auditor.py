@@ -10,7 +10,7 @@ from .reglas.validar_extension import validar_extension
 from .reglas.validar_enlace import validar_enlace
 from .reglas.validar_subtitulo import validar_subtitulo
 
-from comparar_autores import comparar_multiples_autores
+from modulos.comparacion.comparar_autores import comparar_multiples_autores
 
 
 # ====================================================

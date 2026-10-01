@@ -1,7 +1,7 @@
 import re
 
-from comparador_bibliografico import comparar_registro
-from fuentes_bibliograficas import consultar_openlibrary
+from modulos.comparacion.comparador_bibliografico import comparar_registro
+from modulos.fuentes.fuentes_bibliograficas import consultar_openlibrary
 
 
 def normalizar_isbn(valor):
